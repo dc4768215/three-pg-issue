@@ -1,4 +1,4 @@
-*{
+* {
   background-color: #fbfbfb;
 }
 .column {
@@ -9,7 +9,6 @@
   float: right;
   width: 90%;
 }
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
@@ -33,11 +32,11 @@
   background-color: black;
   color: white;
 }
-#link a{
+a#link{
   font-family: arial;
   color: #8ca7ee;
 }
-#link a:visited {
+a:visited#link{
   color: #15368e;
 }
 .images {
